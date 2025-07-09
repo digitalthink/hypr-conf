@@ -1,1 +1,1 @@
-# Configuration initiale Hyprland
+### Configuration initiale Hyprland
